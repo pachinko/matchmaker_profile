@@ -1,0 +1,10 @@
+bin/
+include/
+lib/
+.DS_STORE
+.Python
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
