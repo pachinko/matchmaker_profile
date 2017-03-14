@@ -1,6 +1,7 @@
 branch-defaults:
   master:
-    environment: null
+    environment: profile
+    group_suffix: null
 global:
   application_name: django-tutorial-2
   branch: null
