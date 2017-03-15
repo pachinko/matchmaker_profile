@@ -1,9 +1,13 @@
 branch-defaults:
   master:
-    environment: profile
+    environment: trydjango18-2
     group_suffix: null
+environment-defaults:
+  trydjango18-2:
+    branch: null
+    repository: null
 global:
-  application_name: django-tutorial-2
+  application_name: trydjango18
   branch: null
   default_ec2_keyname: TokyoSparkKeyPair
   default_platform: python2.7
