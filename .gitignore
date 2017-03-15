@@ -1,3 +1,6 @@
+v_matchprofile/
+*.pyc
+
 bin/
 include/
 lib/
